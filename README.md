@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=itskrish01&color=green)
+
 # 💫 About Me:
 🧩 Currently building projects to boost dev skills  <br>🤝 Open to collaborating on innovative ideas  <br>💡 Learning GenAI & ReactJS  <br>💬 Ask me about CMS & web dev  <br>⚡ Fun fact: I'm most creative when speeding on a scooter with music blasting
 
